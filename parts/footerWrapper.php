@@ -1,3 +1,4 @@
+<?php?>
 <div id="footerWrapper">
 
     <div id = "footer">

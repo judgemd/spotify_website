@@ -1,3 +1,5 @@
+<?php?>
+
 <div id="bannerWrapper">
 
     <h1>Listening<br>is Everything</h1>
